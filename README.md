@@ -19,4 +19,8 @@ The best place to report the vulnerability is to disclosure@navcoin.org. You can
 
 Fingerprint: EF18 5DD3 91B9 1FAB BD19  1B7B CB17 7C13 FC14 C3B8
 
-Or you can import a key by running the following command with that individual’s fingerprint: gpg --recv-keys "<fingerprint>" Ensure that you put quotes around fingerprints containing spaces.
+Or you can import a key by running the following command with that individual’s fingerprint: 
+
+`gpg --recv-keys "<fingerprint>"` 
+
+Ensure that you put quotes around fingerprints containing spaces.
