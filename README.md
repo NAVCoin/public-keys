@@ -16,3 +16,7 @@ If you think you’ve found a critical vulnerability in NavCoin’s protocol, pl
 The best place to report the vulnerability is to disclosure@navcoin.org. You can encrypt your message with the GPG key found on the NavCoin GitHub.
 
 [View Disclosure Public Key](https://github.com/NAVCoin/public-keys/blob/master/org.navcoin.disclosure.pub)
+
+Fingerprint: EF18 5DD3 91B9 1FAB BD19  1B7B CB17 7C13 FC14 C3B8
+
+Or you can import a key by running the following command with that individual’s fingerprint: gpg --recv-keys "<fingerprint>" Ensure that you put quotes around fingerprints containing spaces.
